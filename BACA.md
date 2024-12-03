@@ -13,7 +13,7 @@ ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts `
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Keyboard Balasan, Keyboard Sebaris, Pengendalian Masalah, Aktivitas Catatan Pengguna, Pesan Markdown |
+| Fitur | • Keyboard Balasan<br>• Keyboard Sebaris<br>• Pengendalian Masalah<br>• Aktivitas Catatan Pengguna<br>• Pesan Markdown |
 | Platform | Google Apps Script |
 | Kerangka Kerja | Lumpia.js |
 | Kode | JavaScript |
